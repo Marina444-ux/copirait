@@ -68,6 +68,7 @@ body {
   padding-top: 40px;
   padding-bottom: 40px;
   justify-content: end;
+  margin: 0;
 }
 .header__nav-item {
   font-weight: 600;
